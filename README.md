@@ -1,6 +1,12 @@
-# timer_app
 
-A new Flutter project.
+[Screen_recording_20240506_135509.webm](https://github.com/DurgaMewada/timer_app/assets/149373536/3dea845a-16f0-41fc-98fb-4af9c2a1f8d0)
+
+# Timer Application
+<p>
+<img src = "https://github.com/DurgaMewada/timer_app/assets/149373536/4c22547c-3bf3-40e0-9ae8-373971571e3a" width=30% height=35% >
+<img src = "https://github.com/DurgaMewada/timer_app/assets/149373536/ad70fca6-ff41-40da-9521-74a139853570" width=30% height=35% >
+<img src = "https://github.com/DurgaMewada/timer_app/assets/149373536/fb130d33-7881-494a-9e02-0f6aa157af72" width=30% height=35% >    
+</p>
 
 ## Getting Started
 
